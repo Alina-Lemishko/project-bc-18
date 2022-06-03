@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://mkundeev.github.io/team-project",
+  "homepage": "https://Alina-Lemishko/project-bc-18",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project/"
+    "build": "parcel build src/*.html --public-url /project-bc-18/"
   },
   "repository": {
     "type": "git",
